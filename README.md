@@ -1,0 +1,2 @@
+# Online-Bookstore-System
+An online bookstore system that acts as a central database containing various books in stock along with their title, author and cost. The sql database stores various book related details. A user visiting the website can see a wide range of books arranged in respective categories. The user may select desired book and view its price. The user may even search for specific books on the system. Once the user selects a book , he then has to fill in a form and the book is booked for the user.
